@@ -1,1 +1,1 @@
-# recruitment-app-wpf-public
+# RecruitmentApp WPF
