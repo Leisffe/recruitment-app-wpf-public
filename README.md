@@ -1,5 +1,5 @@
 ## Introduction
-This application was created specifically as final project for C# laboratory classes. Main objective of the given task was to write a GUI application using MVVM design in WPF. Application that was written is targeted for recruiters looking for possible candidates for an employee and candidates themselves, both of which can search through available listings. Application was created and meant to run on **Windows 10 21H2**.
+This application was created specifically as final project for C# laboratory classes. Main objective of the given task was to write a GUI application using MVVM design in WPF. Written application is targeted for recruiters looking for possible candidates for an employee and candidates themselves, both of which can search through available listings. Application was created and meant to run on **Windows 10 21H2**.
 
 ## Basic functionality:
 * Application uses MySQL database to store data.
